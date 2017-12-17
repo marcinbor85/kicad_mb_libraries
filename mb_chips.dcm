@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 25LCxxx
+D External EEPROM with SPI interface in 8-pin package
+K EEPROM memory SPI serial
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21832H.pdf
+$ENDCMP
+#
+$CMP ISO1050DUB
+D CAN-BUS Isolated Transceiver
+K CAN BUS isolated transceiver opto
+$ENDCMP
+#
+$CMP L5973AD
+D 2 A switch step down switching regulator
+K dc/dc switching regulator step down buck
+F https://www.tme.eu/pl/Document/09f5be8eeabf4c95d33e27a9f498b26a/l5973ad.pdf
+$ENDCMP
+#
+$CMP LM1117-xx
+D 800mA Low-Dropout Linear Regulator
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP W5500
+D Wiznet Hardwired Ethernet TCP/IP Controller
+K Wiznet TCP Ethernet W5500
+$ENDCMP
+#
+$CMP XMC1404-F064X0128
+D Infineon XMC1400 Family Microcontroller
+K XMC1400 MCU Infineon
+$ENDCMP
+#
+#End Doc Library

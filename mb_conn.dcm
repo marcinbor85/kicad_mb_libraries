@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DB9_Male
+D 9-pin male D-SUB connector, Mounting Hole
+K connector male D-SUB
+$ENDCMP
+#
+$CMP RJ45-TRANSFO
+D RJ45 with transformer + leds WURTH
+K RJ45
+$ENDCMP
+#
+#End Doc Library
